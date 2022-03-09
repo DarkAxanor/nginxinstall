@@ -1,0 +1,2 @@
+# nginxinstall
+install nginx
